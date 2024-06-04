@@ -1,0 +1,44 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(29,149,27);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    position:sticky;
+}
+
+.navContainer{
+    width: 100%;
+    padding: 0 80px;
+    /* max-width: 1024px; */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    background-image: url("Logo.png");
+    height: 80%;
+    width: 13%;
+    background-size:cover;
+    align-items: center;
+}
+
+.navButton{
+    font-size: medium;
+    height: 35px;
+    margin-left: 20px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: rgb(29,149,27);
+}
+.navButton:hover{
+    background-color: rgb(18, 96, 17);
+    color: white;
+}
