@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navContainer">
         <span className="logo" onClick={handleLogoClick} style={{ cursor: 'pointer' }}>
-          <img src="Logo.png" alt="Logo" />
+          {/* <img src="Logo.png" alt="Logo" /> */}
         </span>
         <div className="navItems">
           <button className="navButton">Register</button>
