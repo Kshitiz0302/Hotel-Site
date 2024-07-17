@@ -12,7 +12,7 @@ The application is deployed and can be accessed at [Book-IT](https://hotel-site-
    ![Home Page](screenshots/HomePage.jpg)
 
 2. **List Page**
-   ![List Page](screenshots/List.jpg)
+   ![List Page](screenshots/ListImage.jpg)
 
 ## Features
 
